@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ritu29verma&label=Profile views&color=0e75b6&style=flat" alt="Ritu29verma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ritu29verma" alt="Ritu29verma" /></a> </p>
-
 - 🔭 I'm currently working on **a AI/ML project.**
 
 - 🌱 I'm currently learning **GraphQL, Automation, and System Design, while exploring RAG pipelines, and local LLM integrations using LangChain and Hugging Face Transformers.**
