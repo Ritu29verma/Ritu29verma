@@ -41,6 +41,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritu29verma&" alt="Ritu29verma" /></p>
 
 <!-- Snake animation -->
-<img align="right" alt="snake animation" width="800" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-<img src="https://raw.githubusercontent.com/Ritu29verma/Ritu29verma/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img align="right" alt="snake animation" width="800" src="https://raw.githubusercontent.com/Ritu29verma/Ritu29verma/output/github-contribution-grid-snake.svg">
 
