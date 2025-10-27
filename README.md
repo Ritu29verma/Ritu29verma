@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&text=Ritu%20Verma&fontColor=ffffff&fontAlignY=35&animation=fadeIn)
 
-### An experienced Javascript developer
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=000000&width=435&lines=Hi+I'm+Ritu+Verma!;Full+Stack+Developer;Loves+Building+Cool+Projects)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ritu29verma&label=Profile views&color=0e75b6&style=flat" alt="Ritu29verma" /> </p>
 
