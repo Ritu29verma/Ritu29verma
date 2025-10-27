@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ritu Verma
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&text=Ritu%20Verma&fontColor=ffffff&fontAlignY=35&animation=fadeIn)
 
 ### An experienced Javascript developer
 
